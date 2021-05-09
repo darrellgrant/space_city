@@ -6,3 +6,5 @@ A virtual tour of a floating space city.
       out with your mousewheel. Alternatively, you can use the handy buttons
       below the image to inspect from different viewpoints.
       [Live Demo](http://darrellgrant.net/spacecity/)
+      
+     Space City was built using X3D and Blender 
